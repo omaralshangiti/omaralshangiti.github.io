@@ -10,7 +10,6 @@ nav ul, footer ul {
 }
 header nav {
     display: flex;
-    justify-content: center;
     align-items: center;
     padding: 20px;
 }
@@ -33,6 +32,8 @@ p1 {
 }
 h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #000000
+    
 }
 p {
     font-size: 1em;
@@ -43,7 +44,6 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    justify-content: center;
     align-items: center;
 }
 
