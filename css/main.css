@@ -25,12 +25,17 @@ a {
 a:hover {
     text-decoration: underline;
 }
-main {
-    padding: 10px;
+main p {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+    padding: 0px 20px 0px 20px;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    padding: 0px 20px 0px 20px;
 }
 p1 {
     font-size: 1.5em;
