@@ -8,24 +8,12 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-
-container {
-    max-width: 900px;
-    margin: auto;
-}
-
 header nav {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px;
 }
-
-section {
-    padding: 20;
-}
-
-
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -39,6 +27,10 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p1 {
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
