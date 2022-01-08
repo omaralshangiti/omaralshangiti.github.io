@@ -10,8 +10,8 @@ nav ul, footer ul {
 }
 header nav {
     display: flex;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     padding: 20px;
 }
 nav ul li, footer ul li {
@@ -43,6 +43,8 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    justify-content: center;
+    align-items: center;
 }
 
 ul.posts { 
