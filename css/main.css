@@ -11,6 +11,7 @@ nav ul, footer ul {
 header nav {
     display: flex;
     align-items: center;
+    float: center;
     padding: 20px;
 }
 nav ul li, footer ul li {
@@ -50,6 +51,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     align-items: center;
+    float: center;
 }
 
 ul.posts { 
