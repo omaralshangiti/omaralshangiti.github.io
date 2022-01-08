@@ -10,8 +10,8 @@ nav ul, footer ul {
 }
 header nav {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
     padding: 20px;
 }
 nav ul li, footer ul li {
@@ -24,6 +24,9 @@ a {
 }
 a:hover {
     text-decoration: underline;
+}
+main {
+    padding: 10px;
 }
 h1 {
     font-size: 3em;
