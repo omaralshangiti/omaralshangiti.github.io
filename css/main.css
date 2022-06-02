@@ -11,12 +11,15 @@ nav ul, footer ul {
     font-weight: bold;
 }
 header nav {
+    align-items: center;
+    text-align: center;
     display: flex;
     align-items: center;
     text-align: center;
     padding: 20px;
 }
 nav ul li, footer ul li {
+    
     display: inline;
     margin-right: 20px;
     align-items: center;
@@ -68,6 +71,8 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    align-items: center;
+    text-align: center;
 }
 
 ul.posts li {
