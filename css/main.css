@@ -1,5 +1,5 @@
 body {
-    margin: 1200px auto;
+    margin: 120px auto;
     width: 50%;
 }
 nav ul, footer ul {
@@ -39,7 +39,12 @@ main {
     border-left: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
 }
-
+h1 {
+     font-size: 3em;
+ }
+ p1 {
+     font-size: 1.5em;
+ }
 h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #008080
