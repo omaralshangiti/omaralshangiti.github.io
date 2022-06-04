@@ -47,7 +47,8 @@ p1 {
 }
 h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #000000
+    color: #008080
+    align-items: center;
     
 }
 p {
