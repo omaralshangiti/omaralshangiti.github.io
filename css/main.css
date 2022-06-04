@@ -3,15 +3,6 @@ body {
     width: 50%;
 }
 
-header h2 {
-    align-items: center;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    color: #008080
-    padding: 20px;
-}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
