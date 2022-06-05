@@ -20,18 +20,40 @@ body {
      }
         
  .logo_container {
-         height: 100%;
-          display: table;
-          float: left;
+    height: 100%;
+    display: table;
+    float: left;
  }
      
-        .logo_container h1 {
-            color: teal;
-         height: 100%;
-          display: table-cell;
-            vertical-align: middle;
-        font-size: 32px;
+.logo_container h1 {
+   color: teal;
+   height: 100%;
+   display: table-cell;
+   vertical-align: middle;
+   font-size: 32px;
  }
+        
+ .navigation {
+ float: right;
+     height: 100%;
+ }
+        
+ .navigation a {
+     
+  height:100%;
+  display: table;
+  float: left;
+  padding: 0px 20px;
+  }
+        
+        
+ .navigation a li {
+ display: table-cell;
+ vertical-align: middle;
+ height: 100%;
+    color: green;
+     font-size: 16px;
+        }
         
         
 .header {
