@@ -8,16 +8,20 @@ header {
     text-align: center;
     color: teal;
     {
-        
-.p3 {
-    font-size: 3em;
-        }
-
-        
-.h3 {
-    font-family: Arial, Helvetica, sans-serif;
+        .name {
+            float: left;
         }
         
+        .buttons {
+            float: right;
+        }
+        
+.header {
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+        }
         
         
 a {
