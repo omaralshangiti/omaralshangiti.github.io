@@ -18,6 +18,7 @@ header .inner{
     height: 100%;
     display: block;
     margin: 0 auto;
+    background-color: red;
 }
 
 header .logo{
@@ -30,12 +31,10 @@ header .logo div{
     height: 100%;
     display: table-cell;
     vertical-align: middle;
+    color: teal;
 }
 
-header .logo img{
-    height: 50px;
-    margin-top: 5px; /* Optical alignment of the logo */
-}
+
 
 header nav{
     float: right;
