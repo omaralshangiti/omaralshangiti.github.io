@@ -53,6 +53,12 @@
     padding: 0px 20px;
 }
 
+.navigation a:last-child {
+padding-right: 0;
+
+}
+
+
 .navigation a li{
     display: table-cell;
     vertical-align: middle;
