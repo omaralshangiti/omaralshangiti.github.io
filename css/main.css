@@ -1,14 +1,16 @@
 /* Default styles for the browser */
 *{
-    margin: 60px;
+    margin: ٠;
     padding: 0;
     list-style: none;
     text-decoration: none;
 }
 
-header{
-    width: 100vw;
-    height: 100px;
+.header{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
     border-bottom: solid 1px rgba(16, 16, 16, 0.1);
     font-family: 'Poppins';
 }
