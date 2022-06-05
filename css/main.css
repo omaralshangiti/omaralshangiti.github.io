@@ -14,7 +14,7 @@
 }
 
 .inner{
-    width: 800px;
+    width: 600px;
     height: 100%;
     display: block;
     margin: 0 auto;
@@ -65,5 +65,5 @@ padding-right: 0;
     height: 100%;
     color: black;
     font-family:"Calibri, sans-serif";
-    font-size: 16px;
+    font-size: 24px;
 }
