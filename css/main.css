@@ -61,11 +61,13 @@ padding-right: 0;
 
 .navigation a li{
     display: table-cell;
-    vertical-align: middle;
+    color: teal;
     height: 100%;
-    color: black;
-    font-family:"Calibri, sans-serif";
-    font-size: 24px;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Lalezar';
+    font-size: 32;
+    font-weight: 200;
 }
 
 .butter{
